@@ -1,5 +1,5 @@
 
-# CrowdSafe - Real-Time Crowd Detection using YOLOv8
+# Crowdsafe - Real-Time Crowd Detection using YOLOv8
 
 A project built for the **Smart India Hackathon 2025**, CrowdSafe leverages advanced computer vision algorithms to detect and monitor crowd density in videos. The system focuses on real-time detection and analysis, ensuring public safety by classifying crowd levels as **Low**, **Moderate**, or **High** based on the number of people detected in each frame.
 
